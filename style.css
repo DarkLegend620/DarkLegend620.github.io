@@ -58,31 +58,31 @@ li {
 
 .bottom-left {
   position: absolute;
-  bottom: 8px;
-  left: 16px;
+  bottom: 1080px;
+  left: 1920px;
 }
 
 .top-left {
   position: absolute;
-  top: 8px;
-  left: 16px;
+  top: 1080px;
+  left: 1920px;
 }
 
 .top-right {
   position: absolute;
-  top: 8px;
-  right: 16px;
+  top: 1080px;
+  right: 1920px;
 }
 
 .bottom-right {
   position: absolute;
-  bottom: 8px;
-  right: 16px;
+  bottom: 1080px;
+  right: 1920px;
 }
 
 .centered {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  top: 100%;
+  left: 100%;
+  transform: translate(-100%, -100%);
 }
