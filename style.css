@@ -7,8 +7,10 @@ body {
 	margin-left: 20px;
 	background-image: url("Destiny_2 Hunter");
   	background-repeat: no-repeat;
-  	background-position: right top;
+  	background-position: center;
   	background-attachment: fixed;
+	background-size: 400% 400%;
+	
 }
 
 p   {
@@ -44,3 +46,4 @@ footer {
 footer span{
 	align:right;
 	width: 350px;
+}
