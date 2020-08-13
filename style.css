@@ -42,13 +42,6 @@ footer span{
 	width: 350px;
 }
 
-img {
-  	position: absolute;
-  	left: 1920px;
-  	top: 1080px;
-  	z-index: -2;
-}
-
 ul {
 	text-align: center;
 }
