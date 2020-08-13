@@ -5,15 +5,14 @@ body {
   	background-image: url("destiny2.jpg");
 }
 
+p{
+	text-align: center;
+}
+	
 h1{
-  text-align: center;
+  	text-align: center;
 }
 
 h2{
 	text-align: center;
 }
-
-img {
- float:right; 
- height:100px;
- }
