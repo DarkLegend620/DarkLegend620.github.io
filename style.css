@@ -16,3 +16,9 @@ h1{
 h2{
 	text-align: center;
 }
+
+img {
+ 	float:center; 
+ 	height:1080px;
+	width:1920px;
+ }
