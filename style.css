@@ -6,12 +6,13 @@ body {
 	margin-left: 20px;
 	margin-right: 20px;
 	margin-left: 20px;
+	
+body {	
 	background-image: url("Destiny_2 Hunter");
   	background-repeat: no-repeat;
   	background-position: center;
   	background-attachment: fixed;
 	background-size: 400% 400%;
-	
 }
 
 h1  {
@@ -41,7 +42,7 @@ footer {
 	text-align: center;
 }
 footer span{
-	align:right;
+	align:center;
 	width: 350px;
 }
 
