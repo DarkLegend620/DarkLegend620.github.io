@@ -2,7 +2,7 @@
 body {
 	font-family: Helvetica, Arial, "sans-serif";
 	margin-left: 20px;
-  	background-image: url(destiny2.jpg);
+  	background-image: url("destiny2.jpg");
 }
 
 p{
