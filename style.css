@@ -7,6 +7,7 @@ body {
 	margin-right: 10px;
 	margin-left: 10px;
   	background-color: #9932CC;
+	background-blend-mode: lighten;
 }
 
 h1  {
@@ -66,6 +67,7 @@ img.bg {
   position: fixed;
   top: 0;
   left: 0;
+  opacity: 0.6;
 }
 
   img.bg {
