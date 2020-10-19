@@ -6,13 +6,11 @@ body {
 	margin-left: 15px;
 	margin-right: 20px;
 	margin-left: 15px;
-  	background-color: #9932CC;
-	background-blend-mode: darken;
 }
 
 body {
 	background-color: #9932CC;
-	background-blend-mode: darken;
+	background-blend-mode: lighten;
 }
 
 
