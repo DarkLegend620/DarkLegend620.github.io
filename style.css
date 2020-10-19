@@ -7,8 +7,8 @@ body {
 	margin-right: 20px;
 	margin-left: 15px;
   	background-color: #9932CC;
-	background-blend-mode: lighten;
-	opacity: 0.3;
+	background-blend-mode: darken;
+	opacity: 0.5;
 }
 
 h1  {
