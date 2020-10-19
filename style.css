@@ -32,15 +32,6 @@ h2  {
 }
 
 html { 
-    background: url(Destiny_2 Hunter.jpg) no-repeat center center fixed;
-    background-size: cover;
-    background-color: #9932CC;
-    background-blend-mode: darken;
-    opacity: 0.3;
-	
-  }
-
-html { 
     background: url(https://images2.alphacoders.com/917/917700.jpg) no-repeat center center fixed;
     background-size: cover;
   }
