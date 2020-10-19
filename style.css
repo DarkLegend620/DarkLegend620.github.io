@@ -29,6 +29,11 @@ h2  {
 	padding: 5px;
 }
 
+html { 
+    background: url(https://images2.alphacoders.com/917/917700.jpg) no-repeat center center fixed;
+    background-size: cover;
+  }
+
 }
 footer {
 	clear: both;
