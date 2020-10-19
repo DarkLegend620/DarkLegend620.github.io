@@ -10,6 +10,12 @@ body {
 	background-blend-mode: darken;
 }
 
+body {
+	background-color: #9932CC;
+	background-blend-mode: darken;
+}
+
+
 h1  {
   	text-align: center;
 }
@@ -73,12 +79,12 @@ img.bg {
   position: fixed;
   top: 0;
   left: 0;
-  opacity: 0.4;
+  opacity: 0.3;
 }
 
   img.bg {
     left: 50%;
     margin-left: 0px;
-	opacity: 0.4;
+	opacity: 0.3;
   }
 }
