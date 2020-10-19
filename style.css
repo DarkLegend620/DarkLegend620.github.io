@@ -84,4 +84,10 @@ img.bg {
     margin-left: 0px;
 	opacity: 0.3;
   }
+
+
+  .color {
+      background-color: #9932CC;
+      background-blend-mode: darken;
+}
 }
